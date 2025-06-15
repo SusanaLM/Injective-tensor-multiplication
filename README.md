@@ -26,7 +26,7 @@ This reposity contains the code of the paper "Computation of Tensor Functions un
     setupInjectiveProduct
 ```    
 
-  - prerequisites
+  - Prerequisites
 
     MATLAB >= R2023a
        
@@ -34,7 +34,7 @@ This reposity contains the code of the paper "Computation of Tensor Functions un
 
     To run the code, first access [Hyperspectral_surjective](https://github.com/elizabethnewman/projected-products) and download the scripts: facewise.m, facewiseSVD.m, fronorm.m, modeProduct.m and tran.m.
 
-  - location of:
+  - Location of:
     - code: [Hyperspectral_injective MATLAB](ex_hyperspectral_injective.py)
     - issue tracker : [report issues](https://github.com/SusanaLM/Injective-tensor-multiplication/issues)
 
