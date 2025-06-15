@@ -10,7 +10,7 @@ This reposity contains the code of the paper "Computation of Tensor Functions un
 
 
 
-* **Example Usage**:  
+* **Example of results obtained**:  
 
   <img src="img/surj_vs_inj_err_k_p_10.jpg" alt="p=10 error curves" width="500"/>  
   <img src="img/surj_vs_inj_err_k_p_220.jpg" alt="p=220 error curves" width="500"/>
