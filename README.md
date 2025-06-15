@@ -12,7 +12,8 @@ This reposity contains the code of the paper "Computation of Tensor Functions un
  
 * **Example Usage**: 
 
-  ![standart](img/rel_err_vs_k.png)
+  ![standart](img/surj_vs_inj_err_k_p_10.jpg)
+  ![standart](img/surj_vs_inj_err_k_p_220.jpg)
 
 
 
