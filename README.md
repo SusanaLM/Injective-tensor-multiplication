@@ -12,14 +12,10 @@ This reposity contains the code of the paper "Computation of Tensor Functions un
 
 * **Example Usage**:  
 
-  <img src="img/surj_vs_inj_err_k_p_10.jpg" alt="p=10 error curves" width="300"/>  
-  <img src="img/surj_vs_inj_err_k_p_220.jpg" alt="p=220 error curves" width="300"/>
+  <img src="img/surj_vs_inj_err_k_p_10.jpg" alt="p=10 error curves" width="500"/>  
+  <img src="img/surj_vs_inj_err_k_p_220.jpg" alt="p=220 error curves" width="500"/>
 
  
-* **Example Usage**: 
-
-  ![standart](img/surj_vs_inj_err_k_p_10.jpg)
-  ![standart](img/surj_vs_inj_err_k_p_220.jpg)
 
 
 
