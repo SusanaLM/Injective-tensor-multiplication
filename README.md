@@ -12,7 +12,7 @@ This reposity contains the code of the paper "Computation of Tensor Functions un
  
 * **Example Usage**: 
 
-  ![standart](img/table.png)
+  ![standart](img/rel_err_vs_k.png)
 
 
 
@@ -30,6 +30,8 @@ This reposity contains the code of the paper "Computation of Tensor Functions un
        
     Image Processing Toolbox
 
+    To run the code, first access [Hyperspectral_surjective](https://github.com/elizabethnewman/projected-products) and download the scripts: facewise.m, facewiseSVD.m, fronorm.m, modeProduct.m and tran.m.
+
   - location of:
     - code: [Hyperspectral_injective MATLAB](ex_hyperspectral_injective.py)
     - issue tracker : [report issues](https://github.com/SusanaLM/Injective-tensor-multiplication/issues)
@@ -38,13 +40,10 @@ This reposity contains the code of the paper "Computation of Tensor Functions un
 
 * **Notes**
   - version : v1.0
-  - If the input has odd dimentions, the code automatically adds padding one on the right and/or bottom.
-  - The combination ReLU followed by a poset filter seems to work well.
-
 
 
 * **Colophon**
-  - Credits -- code, algorithm, implementation/deployment, testing and overall direction: Susana Lopez Moreno.
+  - Credits -- code, algorithm, implementation/deployment, testing and overall direction: Susana López Moreno and Jeong-Hoon Jun.
   - Copyright and License -- see [LICENSE]([https://github.com/SusanaLM/Injective-tensor-multiplication?tab=MIT-1-ov-file]) file.
   - How to contribute: submit issues.
   - This work was supported by the Korea National Research Foundation (NRF) grant funded by the Korean government (MSIT) (RS-2024-00406152). J.-H. Ju was supported by the Basic Science Program of the NRF of Korea (NRF-2022R1C1C101\\ 0052) and by the Basic Research Laboratory (grant MSIT no. RS-202400414849).
