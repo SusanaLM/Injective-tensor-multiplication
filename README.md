@@ -27,6 +27,7 @@ This reposity contains the code of the paper "Computation of Tensor Functions un
   - prerequisites
 
     MATLAB >= R2018b
+       
     Image Processing Toolbox
 
   - location of:
