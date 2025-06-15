@@ -8,7 +8,13 @@ This reposity contains the code of the paper "Computation of Tensor Functions un
 * **Overview**
   - Injective SVD under a Johnson-Lindenstrauss-type embedding provides similar performance to the surjective SVD with a data-dependent matrix when the truncation $k$ is high.
 
-    
+
+
+* **Example Usage**:  
+
+  <img src="img/surj_vs_inj_err_k_p_10.jpg" alt="p=10 error curves" width="300"/>  
+  <img src="img/surj_vs_inj_err_k_p_220.jpg" alt="p=220 error curves" width="300"/>
+
  
 * **Example Usage**: 
 
