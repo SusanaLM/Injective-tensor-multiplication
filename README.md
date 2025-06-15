@@ -21,7 +21,9 @@ This reposity contains the code of the paper "Computation of Tensor Functions un
 ```bash 
     git clone https://github.com/SusanaLM/Injective-tensor-multiplication.git
 
-    cd Poset_filters
+    cd Injective-tensor-multiplication
+
+    setupInjectiveProduct
 ```    
 
   - prerequisites
