@@ -6,7 +6,7 @@ This reposity contains the code of the paper "Computation of Tensor Functions un
 
 
 * **Overview**
-  - Injective SVD under a Johnson-Lindenstrauss-type embedding provides similar performance to the surjective SVD with a data-dependent matrix.
+  - Injective SVD under a Johnson-Lindenstrauss-type embedding provides similar performance to the surjective SVD with a data-dependent matrix when the truncation $k$ is high.
 
     
  
@@ -26,7 +26,7 @@ This reposity contains the code of the paper "Computation of Tensor Functions un
 
   - prerequisites
 
-    MATLAB >= R2018b
+    MATLAB >= R2023a
        
     Image Processing Toolbox
 
@@ -45,7 +45,7 @@ This reposity contains the code of the paper "Computation of Tensor Functions un
 
 * **Colophon**
   - Credits -- code, algorithm, implementation/deployment, testing and overall direction: Susana Lopez Moreno.
-  - Copyright and License -- see [LICENSE](https://github.com/mendozacortesgroup/Poset-filters/tree/main?tab=MIT-1-ov-file#readme) file.
+  - Copyright and License -- see [LICENSE]([https://github.com/SusanaLM/Injective-tensor-multiplication?tab=MIT-1-ov-file]) file.
   - How to contribute: submit issues.
   - This work was supported by the Korea National Research Foundation (NRF) grant funded by the Korean government (MSIT) (RS-2024-00406152). J.-H. Ju was supported by the Basic Science Program of the NRF of Korea (NRF-2022R1C1C101\\ 0052) and by the Basic Research Laboratory (grant MSIT no. RS-202400414849).
   - References:  put_arxiv_link
