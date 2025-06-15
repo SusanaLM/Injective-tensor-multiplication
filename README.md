@@ -55,7 +55,7 @@ This reposity contains the code of the paper "Computation of Tensor Functions un
 If you use this code for your research, please cite our paper:
 
 ```
-@misc{poset_filters,
+@misc{injective_tensor_multiplication,
   title={Computation of Tensor Functions under Tensor-Tensor Multiplications with Linear Maps}, 
       author={Jeong-Hoon Ju and Susana Lopez-Moreno},
       year={2025},
