@@ -6,7 +6,9 @@ This reposity contains the code of the paper "Computation of Tensor Functions un
 
 
 * **Overview**
-  - Injective SVD under a Johnson-Lindenstrauss-type embedding provides similar performance to the surjective SVD with a data-dependent matrix when the truncation $k$ is high.
+  - Codes for the counterexample of the determinantal identity of the tensor geometric mean for both the resultant and Cayley's hyperdeterminant.
+    
+  - Injective pseudo-SVD under a Johnson-Lindenstrauss-type embedding provides similar performance to the surjective SVD with a data-dependent matrix when the truncation $k$ is high.
 
 
 
