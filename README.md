@@ -1,7 +1,7 @@
 # Injective-tensor-multiplication
 <p align="center"><a href="put_link_here"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
 
-This reposity contains the code of the paper "On the Computation of Tensor Functions under Tensor-Tensor Multiplications with Linear Maps"
+This repository contains the code of the paper "On the Computation of Tensor Functions under Tensor-Tensor Multiplications with Linear Maps"
 ## Contents
 
 
@@ -16,7 +16,7 @@ This reposity contains the code of the paper "On the Computation of Tensor Funct
 
   <img src="img/surj_vs_inj_err_k_p_10.jpg" alt="p=10 error curves" width="400"/>  
   <img src="img/surj_vs_inj_err_k_p_220.jpg" alt="p=220 error curves" width="400"/>
-  <img src="img/error_vs_truncation_k_all_methods" alt="p=220 error curves" width="200"/>
+  <img src="img/error_vs_truncation_k_all_methods.png" alt="p=220 error curves" width="200"/>
 
  
 
