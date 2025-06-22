@@ -8,7 +8,7 @@ This repository contains the code of the paper "On the Computation of Tensor Fun
 * **Overview**
   - Codes for the counterexample of the determinantal identity of the tensor geometric mean for both the resultant and Cayley's hyperdeterminant.
     
-  - Injective pseudo-SVD under a Johnson-Lindenstrauss-type embedding provides similar performance to the surjective SVD with a data-dependent matrix when the truncation $k$ is high.
+  - Injective pseudo-SVD under a Johnson-Lindenstrauss-type embedding provides a slighly better relative error in comparison to the surjective case. In terms of the compression ratio, the performance is similar to that of the surjective SVD with a data-dependent matrix when the truncation $k$ is high.
 
 
 
@@ -17,6 +17,7 @@ This repository contains the code of the paper "On the Computation of Tensor Fun
   <img src="img/surj_vs_inj_err_k_p_10.jpg" alt="p=10 error curves" width="400"/>  
   <img src="img/surj_vs_inj_err_k_p_220.jpg" alt="p=220 error curves" width="400"/>
   <img src="img/error_vs_truncation_k_all_methods.png" alt="p=220 error curves" width="200"/>
+  <img src="img/Table_CR.png" alt="p=220 error curves" width="300"/>
 
  
 
