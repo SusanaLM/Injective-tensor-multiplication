@@ -1,5 +1,5 @@
 # Injective-tensor-multiplication
-<p align="center"><a href="put_link_here"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
+<p align="center"><a href="https://arxiv.org/abs/2506.18713"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
 
 This repository contains the code of the paper "On the Computation of Tensor Functions under Tensor-Tensor Multiplications with Linear Maps"
 ## Contents
@@ -61,9 +61,9 @@ If you use this code for your research, please cite our paper:
   title={Computation of Tensor Functions under Tensor-Tensor Multiplications with Linear Maps}, 
       author={Jeong-Hoon Ju and Susana Lopez-Moreno},
       year={2025},
-      eprint={put_eprint_here},
+      eprint={2506.18713},
       archivePrefix={arXiv},
-      primaryClass={},
-      url={put_link_here}, 
+      primaryClass={math.NA},
+      url={https://arxiv.org/abs/2506.18713}, 
 }
 ```
