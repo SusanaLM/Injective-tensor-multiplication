@@ -14,8 +14,11 @@ This repository contains the code of the paper "On the Computation of Tensor Fun
 
 * **Example of results obtained**:  
 
-  
+  <img src="img/re_vs_cr_s80.jpg" alt="p=80 CR vs RE" width="600"/>
+
   <img src="img/CR.png" alt="p=220 error curves" width="600"/>
+  
+  <img src="img/video_snapshots.png" alt="Traffic video snapshots" width="600"/>
 
  
 
