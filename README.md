@@ -40,7 +40,7 @@ This repository contains the code of the paper "On the Computation of Tensor Fun
 
 
   - Location of:
-    - code: [Hyperspectral_injective MATLAB](ex_hyperspectral_injective.py)
+    - code: [Hyperspectral_injective MATLAB](ex_hyperspectral_injective.m)
     - issue tracker : [report issues](https://github.com/SusanaLM/Injective-tensor-multiplication/issues)
 
 
