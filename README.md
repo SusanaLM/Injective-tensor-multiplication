@@ -14,8 +14,8 @@ This repository contains the code of the paper "On the Computation of Tensor Fun
 
 * **Example of results obtained**:  
 
-  <img src="img/surj_vs_inj_err_k_p_10.jpg" alt="p=10 error curves" width="350"/> 
-  <img src="img/Table_CR.png" alt="p=220 error curves" width="600"/>
+  
+  <img src="img/CR.png" alt="p=220 error curves" width="600"/>
 
  
 
